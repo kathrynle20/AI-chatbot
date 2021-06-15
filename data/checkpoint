@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/KittyKat/Projects/Chatbot/data/chatbot_model.tflearn"
+all_model_checkpoint_paths: "/Users/KittyKat/Projects/Chatbot/data/chatbot_model.tflearn"
